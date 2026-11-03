@@ -14,15 +14,6 @@ Express.js – Web application framework for Node.js.
 EJS – Embedded JavaScript templating engine.
 HTML/CSS – For structuring and styling web pages.
 JavaScript – For application logic and interactivity.
-Project Structure
-text
-Sports-Activity-Tracker/
-│
-├── views/              # EJS templates
-├── app.js              # Main application server
-├── package.json        # Project dependencies and configuration
-├── package-lock.json   # Dependency version information
-└── .gitignore          # Git ignored files
 
 Installation and Setup
 
